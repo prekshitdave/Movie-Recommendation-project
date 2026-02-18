@@ -41,5 +41,5 @@ The application recommends similar movies based on a precomputed similarity matr
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Movie-Recommendation-System.git
-cd Movie-Recommendation-System
+git clone https://github.com/prekshitdave/Movie-Recommendation-project
+cd Movie-Recommendation-project
